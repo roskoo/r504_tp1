@@ -12,3 +12,6 @@ def division(a, b):
 
 def puissance(a, b):
     return a ** b
+
+def modulo(a, b):
+    return a % b
